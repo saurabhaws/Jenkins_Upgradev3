@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hi World! This is My first Project in Devops...</h2>
+<h2>Hi This is my Devops Project</h2>
 </body>
 </html>
